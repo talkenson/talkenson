@@ -34,6 +34,7 @@ I am glad to welcome you to this README.md
 - E-mail: vetka921@gmail.com
 - Telegram: [@talkenson](http://t.me/talkenson)
 - HH / HeadHunter: [Vitaly Shatalov | Виталий Шаталов](https://novosibirsk.hh.ru/resume/f53819f5ff03be32dc0039ed1f484779614e70)
-
+- Web: [Talkenson.ru](https://talkenson.ru)
+- Insta: [@talkenson](https://instagram.com/talkenson)
 
 *Stay tuned!*
