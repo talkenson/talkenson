@@ -5,9 +5,10 @@ I am glad to welcome you to this README.md
 - **2019-2023** Bachelor of Automation and Computer Engineering, Novosibirsk State Technical University, 2nd year student
 ### Work Experience 💻
 - **June 2019 - May 2020** **[Mobile Telesystems](http://ir.mts.ru/home/default.aspx)** [(ru)](https://mts.ru/) - Full-stack developer on ***AngularJS*** + ***Moleculer*** + ***MongoDB***
-- **June 2020 - now** **[CleverCraft d.o.o.](https://www.clevercraft.net/)** - Front-end developer on ***ReactJS***
+- **June 2020 - July 2021** **[CleverCraft d.o.o.](https://www.clevercraft.net/)** - Front-end developer on ***ReactJS***
+- **August 2021 - now** ...
 ### Skills 📈
-- **Basic:** AngularJS, C++, Linux
+- **Basic:** AngularJS, C++
 - **Intermediate:** JavaScript, TypeScript, ReactJS, SQL
 - **Advanced:** HTML, CSS, Python, Speech Sessions 
 - **Entrepreneurship events:** YouLead 2017, Accessibility in Novosibirsk, [Preactum](https://preactum.ru/)
@@ -29,7 +30,14 @@ I am glad to welcome you to this README.md
 - **NoCTF** - CTF by SibSUTIS, **developer**
 - **KazanCTF** - CTF in Kazan, by ICL ST, **nothing great, but expirience**
 - **Educational series** - "ТриЛогика" series about next-day world staff requirements, **as speaker**
-#### **2021** - *getting info...*
+#### **2021** 
+- **YetiCTF** - CTF by NSTU, **developer**
+- **MindGames Hack** - Creating smart interface for playing GO with AI tips
+- **VK Vezdekod** - Crosscompetetive hackathon in webtech/robotech/UIUXdesign/infosec, passed to next stage at Saint-Petersburg
+- **NSD.Hack** - Smart-contracts, **Solidity and Ethereum**, NFT-tokens
+- **MindGames Hack Finale** - Worldwide GO game championship at Vladivostok
+- **TenderHack** - Tenders and smart analysis of requests on the gov platform, **winners!!!**
+- **VK Vezdekod Finale** - *coming soon...*
 ### Ways to connect 🤙
 - E-mail: vetka921@gmail.com
 - Telegram: [@talkenson](http://t.me/talkenson)
