@@ -46,3 +46,8 @@ I am glad to welcome you to this README.md
 - Insta: [@talkenson](https://instagram.com/talkenson)
 
 *Stay tuned!*
+
+### Stats
+[![Vitaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=talkenson&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Public+Contributions)](https://github.com/anuraghazra/github-readme-stats)
+
+
