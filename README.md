@@ -6,7 +6,7 @@ I am glad to welcome you to this README.md
 ### Work Experience 💻
 - **June 2019 - May 2020** **[Mobile Telesystems](http://ir.mts.ru/home/default.aspx)** [(ru)](https://mts.ru/) - Full-stack developer on ***AngularJS*** + ***Moleculer*** + ***MongoDB***
 - **June 2020 - July 2021** **[CleverCraft d.o.o.](https://www.clevercraft.net/)** - Front-end developer on ***ReactJS***
-- **August 2021 - now** ...
+- **August 2021 - now** - **[Luxoft](https://www.luxoft.com/)** - Single responsibility Front-end developer on product, **ReactJS** 
 ### Skills 📈
 - **Basic:** AngularJS, C++
 - **Intermediate:** JavaScript, TypeScript, ReactJS, SQL
@@ -39,11 +39,13 @@ I am glad to welcome you to this README.md
 - **TenderHack** - Tenders and smart analysis of requests on the gov platform, **winners!!!**
 - **VK Vezdekod Finale** - *coming soon...*
 ### Ways to connect 🤙
-- E-mail: vetka921@gmail.com
+- E-mail: [vetka921@gmail.com](mailto:vetka921@gmail.com)
 - Telegram: [@talkenson](http://t.me/talkenson)
 - HH / HeadHunter: [Vitaly Shatalov | Виталий Шаталов](https://novosibirsk.hh.ru/resume/f53819f5ff03be32dc0039ed1f484779614e70)
 - Web: [Talkenson.ru](https://talkenson.ru)
 - Insta: [@talkenson](https://instagram.com/talkenson)
+- Via Team connection ways: [/talkiiing.ru](https://talkiiing.ru)
+- Via Team email: [shatalov@talkiiing.ru](mailto:shatalov@talkiiing.ru)
 
 *Stay tuned!*
 
