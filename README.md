@@ -37,7 +37,8 @@ I am glad to welcome you to this README.md
 - **NSD.Hack** - Smart-contracts, **Solidity and Ethereum**, NFT-tokens
 - **MindGames Hack Finale** - Worldwide GO game championship at Vladivostok
 - **TenderHack** - Tenders and smart analysis of requests on the gov platform, **winners!!!**
-- **VK Vezdekod Finale** - *coming soon...*
+- **VK Vezdekod Finale** - 7th place of 34, a lot of experience
+
 ### Ways to connect 🤙
 - E-mail: [vetka921@gmail.com](mailto:vetka921@gmail.com)
 - Telegram: [@talkenson](http://t.me/talkenson)
