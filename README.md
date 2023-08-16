@@ -6,12 +6,14 @@ I am glad to welcome you to this README.md
 ### Work Experience 💻
 - **June 2019 - May 2020** **[Mobile Telesystems](http://ir.mts.ru/home/default.aspx)** [(ru)](https://mts.ru/) - Full-stack developer on ***AngularJS*** + ***Moleculer*** + ***MongoDB***
 - **June 2020 - July 2021** **[CleverCraft d.o.o.](https://www.clevercraft.net/)** - Front-end developer on ***ReactJS***
-- **August 2021 - now** - **[Luxoft](https://www.luxoft.com/)** - Single responsibility Front-end developer on product, **ReactJS** 
+- **August 2021 - May 2022** - **[Luxoft](https://www.luxoft.com/)** - Single responsibility Front-end developer on product, 
+- **June 2022 - now** - **[AMTECH](https://amtech.ru/)** - Native-experienced web application with UserMedia and Geolocation APIs, 
+**ReactJS** 
 ### Skills 📈
-- **Basic:** AngularJS, C++
-- **Intermediate:** JavaScript, TypeScript, ReactJS, SQL
-- **Advanced:** HTML, CSS, Python, Speech Sessions 
-- **Entrepreneurship events:** YouLead 2017, Accessibility in Novosibirsk, [Preactum](https://preactum.ru/)
+- **Advanced:** JavaScript, TypeScript, React, Express.js, HTML, CSS, Python, Speech Sessions 
+- **Intermediate:** Capacitor, Swift, SQL
+- **Basic:** AngularJS, C++, 
+- **Entrepreneurship events:** YouLead 2017, [Preactum](https://preactum.ru/)
 ### Events ⚡
 ***It might be interesting...** Futher you'll hear about CTF - CaptureTheFlag competitions in field of Information Security*
 
@@ -38,15 +40,15 @@ I am glad to welcome you to this README.md
 - **MindGames Hack Finale** - Worldwide GO game championship at Vladivostok
 - **TenderHack** - Tenders and smart analysis of requests on the gov platform, **winners!!!**
 - **VK Vezdekod Finale** - 7th place of 34, a lot of experience
+#### **2022**
+- **Цифровой прорыв** - Machine Learning **1st place**
 
 ### Ways to connect 🤙
 - E-mail: [vetka921@gmail.com](mailto:vetka921@gmail.com)
 - Telegram: [@talkenson](http://t.me/talkenson)
 - HH / HeadHunter: [Vitaly Shatalov | Виталий Шаталов](https://novosibirsk.hh.ru/resume/f53819f5ff03be32dc0039ed1f484779614e70)
-- Web: [Talkenson.ru](https://talkenson.ru)
 - Insta: [@talkenson](https://instagram.com/talkenson)
 - Via Team connection ways: [/talkiiing.ru](https://talkiiing.ru)
-- Via Team email: [shatalov@talkiiing.ru](mailto:shatalov@talkiiing.ru)
 
 *Stay tuned!*
 
